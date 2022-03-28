@@ -1,3 +1,2 @@
 # pe4shell
-- Portable TCP/HTTP backdoor for Windown and Linux
-- Generate TCP/HTTP reverse shell for Windows and Linux 
+- Portable HTTP/S reverse shell for Windows to be connected to metasploit 
