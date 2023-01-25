@@ -1,2 +1,2 @@
 # pe4shell
-- Portable HTTP/S reverse shell for Windows to be connected to metasploit 
+- Portable TCP, HTTP/S reverse shell for Windows to be connected to Netcat and Metasploit.
